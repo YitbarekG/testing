@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "this is a testing of git for coursera course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YitbarekG/testing.git"
+  },
+  "author": "Yitbarek G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YitbarekG/testing/issues"
+  },
+  "homepage": "https://github.com/YitbarekG/testing#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
